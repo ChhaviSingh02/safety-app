@@ -1,5 +1,9 @@
 https://www.figma.com/design/hffWgDnaZeoy9B2hy074KH/safety-app?node-id=108-5894&t=HtMT7uT13Npjx2xU-0
-Creating a Safer Delhi for Women - Strengthening Law and Order for Inclusive Urban Safety
+
+------------------------------------------------
+https://youtu.be/RU8hezt11Q8?si=DO4atYaExeE8xeTr
+________________________________________________
+#Creating a Safer Delhi for Women - Strengthening Law and Order for Inclusive Urban Safety
 Safe cities are pivotal for achieving Viksit Bharat@2047 by unlocking the 'gender dividend.' Law enforcement is central to ensuring women's safety, but its success depends on adopting modern technologies, implementing strong policies, and fostering collaboration among all stakeholders. Despite the tools like CCTV cameras and safety apps, delays in response and underutilization highlight significant gaps. Fixing these shortcomings, improving safety protocols, and holding responsible parties accountable are essential steps to make Delhi safer for everyone.
 
 Team Name: Shield Tap
